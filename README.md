@@ -1,4 +1,7 @@
 # projectile-math-project
+
+Try here: http://sukk4.net/games/math/game.html
+
 2014 math project that shows projectiles trajectory and some information of the trajectory. 
 
 Projectile info: speed, position, air resistance, kinetic energy, time it took to reach 0 ground and average speed. 
