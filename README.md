@@ -1,13 +1,7 @@
 # projectile-math-project
 2014 math project that shows projectiles trajectory and some information of the trajectory. 
 
-Projectile info: 
-  speed, 
-  air resistance, 
-  gravity, 
-  kinetic energy,
-  time it took to reach 0 altitude,
-  average speed 
+Projectile info: speed, air resistance, gravity, kinetic energy, time it took to reach 0 ground and average speed. 
 
 You can change air density, caliper, mass, gravity, starting speed, starting position(x,y), angle and drag coefficient.
 
