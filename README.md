@@ -1,6 +1,6 @@
 # projectile-math-project
 
-Try here: http://sukk4.net/games/math/game.html
+Try here: https://sukk4.github.io/projectile-math-project/
 
 2014 math project that shows projectiles trajectory and some information of the trajectory. 
 
